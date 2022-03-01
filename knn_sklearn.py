@@ -1,6 +1,6 @@
-#******************  KNN  *******************
-#	Implementation:	Marisa Sel Franco		*
-#	IBM - UFPR								*
+#************* KNN scikit-learn *************
+#	Implementation:	Marisa Sel Franco   *
+#	IBM - UFPR			    *
 #********************************************
 
 #!/usr/bin/python
