@@ -1,6 +1,6 @@
 #******************  KNN  *******************
-#	Implementation:	Marisa Sel Franco		*
-#	IBM - UFPR								*
+#	Implementation:	Marisa Sel Franco   *
+#	IBM - UFPR   			    *
 #********************************************
 
 #!/usr/bin/python
